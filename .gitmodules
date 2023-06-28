@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "FourgameteP"]
 	path = FourgameteP
 	url = https://github.com/aflavus/fourgametep
-	shallow = true
-	registered = true
